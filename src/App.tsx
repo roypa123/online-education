@@ -17,7 +17,18 @@ function App() {
                 style={{ backgroundImage: `url(${FirstBackground})` }}
                >
                   <div className="flex ml-45 mr-45 mt-16 mb-8">
-                     <div className="w-4/8">Left Box</div>
+                     <div className="w-4/8">
+                        <div>
+                            The Smart
+                        </div>
+                         <div>
+                            Choice For Future
+                        </div>
+                        <div>
+                          Elearn is a global training provider based acress the UK that specialises in accredited and bespoke training courses. We crush the ...
+                        </div>
+                     
+                     </div>
                      <div className="w-5/8 ">
                      <img src={FirstImage} alt=""/>
                      </div>
